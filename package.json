@@ -1,0 +1,27 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Express application using Jade and Stylus",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"dependencies": {
+    "express": "*",
+    "jade": "*",
+    "nib": "*",
+    "mongodb": "*",
+    "monk": "*",
+    "body-parser": "*"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleeplesseditor/Basic-node.js-test-web-server.git"
+  },
+  "author": "Josh Bryson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sleeplesseditor/Basic-node.js-test-web-server/issues"
+  },
+  "homepage": "https://github.com/sleeplesseditor/Basic-node.js-test-web-server#readme"
+}
